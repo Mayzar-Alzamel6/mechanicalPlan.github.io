@@ -1,0 +1,25 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../img/grid-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  font-family: "Times New Roman", Times, serif;
+}
+h1.free-plan-title {
+  text-align: center;
+  margin: 50px 0;
+  color: white;
+}
+
+.matiral-btn {
+  width: 90px;
+  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+}
+a.linked-card {
+  text-decoration: none;
+}
